@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rippedtuco
-- 🌱 I’m currently a grad student at CU Denver and rersearching in the fields of computer vision, machine learning and deep learning.
+- 🌱 I’m currently a grad student at CU Denver and rersearching in the fields of computational bioscience/neuroscience, computer vision, machine learning and deep learning.
 - 📫 How to reach me --> ayush.choudhary@ucdenver.edu
 
 <!---
